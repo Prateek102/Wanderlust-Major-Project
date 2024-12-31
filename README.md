@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/Wanderlust.git
+git clone https://github.com/Prateek102/Wanderlust-Major-Project.git
 Install dependencies:
 
 cd Wanderlust
